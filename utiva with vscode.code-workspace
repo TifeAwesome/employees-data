@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../utivagit"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "utivagit"
+	}
+}
